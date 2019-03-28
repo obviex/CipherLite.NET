@@ -13,7 +13,7 @@ Yes.
 ### Where can I get the application distribution files?
 [Here](../../releases).
 
-### How long the distribution files be available?
+### How long will the distribution files be available?
 As long as GitHub allows hosting.
 
 ### How do I get the updates about the product end-of-life process?
